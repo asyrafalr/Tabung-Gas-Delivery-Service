@@ -21,9 +21,7 @@ Program ini bertujuan meningkatkan efektivitas dalam pengolahan data pesanan tab
 
 ## Stakeholders
 1. End Users: tim entry data yang berkaitan dengan pengolahan data pesanan sebelum datanya digunakan oleh pihak agen gas.
-2. Business Owners: 
-3. Developers: Tim Developer yang bertugas membangun aplikasi, dan pemeliharaan aplikasi .
-4. Investors : Investor yang memilki hubungan dengan . 
+2. Developers: Tim Developer yang bertugas membangun aplikasi, dan pemeliharaan aplikasi.
 
 ## Limitations
 Projek ini memiliki beberapa keterbatasan:
